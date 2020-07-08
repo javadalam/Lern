@@ -65,6 +65,7 @@ h2 {
     
     width: 25%;
     float: left;
+    
 }
 .author-box{
    
@@ -75,7 +76,8 @@ h2 {
 }
 .other {
     margin-bottom: 40px ;
-    color: blue;
+    color: red;
+    
 }
 .author-box img {
     height: 100px;
